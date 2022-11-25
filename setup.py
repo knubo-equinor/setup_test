@@ -8,7 +8,8 @@ REQUIREMENTS = [
     "pandas",
     "requests",
     "pymc", 
-    "arviz"
+    "arviz",
+    "graphviz"
 ]
 
 setuptools.setup(
